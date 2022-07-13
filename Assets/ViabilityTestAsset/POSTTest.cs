@@ -60,8 +60,10 @@ public class POSTTest : MonoBehaviour
         if (www.result != UnityWebRequest.Result.Success) {
             Debug.Log(www.error);
         }
-        else {
-            Debug.Log("Upload complete!");
+        else
+        {
+            debugText.text = www.downloadHandler.text;
+            // Debug.Log("Upload complete!");
         }
     }
 

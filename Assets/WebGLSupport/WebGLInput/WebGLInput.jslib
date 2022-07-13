@@ -41,7 +41,7 @@ var WebGLInput = {
 			input.style.height = (isMultiLine? 18 : 10) + "vh";
 			input.style.fontSize = 5 + "vh";
 			input.style.borderWidth = 5 + "px";
-			input.style.borderColor = "#000000";
+			input.style.borderColor = "#ffffff";
 		} else {
 			input.style.top = y + "px";
 			input.style.left = x + "px";
