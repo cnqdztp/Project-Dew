@@ -32560,8 +32560,8 @@ MonoBehaviour:
         serializedVersion: 2
         x: 744
         y: 133
-        width: 140
-        height: 32
+        width: 137
+        height: 48
       isBreakpoint: 0
       isSequence: 0
       hideUnused: 0
@@ -32571,6 +32571,15 @@ MonoBehaviour:
           isSystemEvent: 0
           isGlobal: 0
         toState: End
+        linkStyle: 0
+        linkConstraint: 0
+        linkTarget: 0
+        colorIndex: 0
+      - fsmEvent:
+          name: PreviousPage
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: WishPage
         linkStyle: 0
         linkConstraint: 0
         linkTarget: 0
