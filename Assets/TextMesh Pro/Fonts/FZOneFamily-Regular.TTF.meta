@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 504c65ff90adb81488b66e8c3602ff2f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FZ One Family
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b357d03b9f3abff40a1f0433787d75e4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
