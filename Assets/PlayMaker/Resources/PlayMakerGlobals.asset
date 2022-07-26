@@ -49,4 +49,7 @@ MonoBehaviour:
     categories:
     - 
     variableCategoryIDs: 000000000000000000000000
-  events: []
+  events:
+  - OK
+  - ZoomIn
+  - ZoomOut

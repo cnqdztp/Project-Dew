@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 645367c3caff0fe40814f54cccb8a03f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MatCap: {fileID: 2800000, guid: 5736963fc9a3b9843a6873553ee6562a, type: 3}
+  - _BaseCol: {fileID: 2800000, guid: da2a2d768b3b3904bad6dc54c4c5f2ac, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
