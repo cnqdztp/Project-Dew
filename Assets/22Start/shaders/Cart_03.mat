@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseCol:
-        m_Texture: {fileID: 2800000, guid: 450c32c1f18278b42a4733cbf2532ff0, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3ca03e9ac332bcb41b960f71dcc2cef1, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MatCap:
@@ -33,13 +33,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _FresnelPow: 5
-    - _MatcapPow: 0
-    - _MatcapRange: 50
-    - _OutlineWidth: 0.0342
+    - _MatcapPow: 0.88
+    - _MatcapRange: 35.3
+    - _OutlineWidth: 0.01
     - _ShadowPow: 1
     - _SpecPow: 14.2
-    - _line01: 0.899
-    - _line12: 0.375
+    - _line01: 0.922
+    - _line12: 0.431
     - _node_1565: 4.58
     - _node_6329: 0.611
     - _node_7194: 3.820313
@@ -47,5 +47,5 @@ Material:
     - _LineColor: {r: 0.24003202, g: 0.34446272, b: 0.5471698, a: 1}
     - _color0: {r: 0.6415094, g: 0.6415094, b: 0.6415094, a: 1}
     - _color1: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
-    - _color2: {r: 0.09433961, g: 0.09433961, b: 0.09433961, a: 1}
+    - _color2: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []

@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.88036656, g: 0.88036656, b: 0.88036656, a: 1}
+  m_IndirectSpecularColor: {r: 0.9997447, g: 0.9997447, b: 0.9997447, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -14065,36 +14065,40 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bc07cd4c61971fb4ca8a13b3566bae59, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.6118745
+      value: -0.15574187
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bc07cd4c61971fb4ca8a13b3566bae59, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.08017048
+      value: -0.71822405
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bc07cd4c61971fb4ca8a13b3566bae59, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.7802128
+      value: -0.124475196
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bc07cd4c61971fb4ca8a13b3566bae59, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.10222692
+      value: -0.6666369
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bc07cd4c61971fb4ca8a13b3566bae59, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 3.521
+      value: 3.311
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bc07cd4c61971fb4ca8a13b3566bae59, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -103.341
+      value: -266.4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bc07cd4c61971fb4ca8a13b3566bae59, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 14.517
+      value: 157.226
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: bc07cd4c61971fb4ca8a13b3566bae59, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 2a04e3d0730b6754a92d9ea790c91f75, type: 2}
+    - target: {fileID: -5754084199372789682, guid: bc07cd4c61971fb4ca8a13b3566bae59, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 8047649415543725033, guid: 1964c7456631fda4d8f1013af94ccbf7, type: 3}
     - target: {fileID: 919132149155446097, guid: bc07cd4c61971fb4ca8a13b3566bae59, type: 3}
       propertyPath: m_Name
       value: Capsules_no_hole_eye01
@@ -14548,7 +14552,7 @@ MonoBehaviour:
     ResetVariablesOnEnable: 0
     EnableDebugFlow: 0
     EnableBreakpoints: 1
-    editorFlags: 225
+    editorFlags: 224
     activeStateName: 
     mouseEvents: 0
     handleLevelLoaded: 0
@@ -25932,13 +25936,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1389296559}
-  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 7.14, y: 3.97, z: 0}
+  m_LocalRotation: {x: -0, y: 0.71991056, z: -0, w: 0.69406676}
+  m_LocalPosition: {x: 7.141, y: 3.97, z: 0.097}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 92.094, z: 0}
 --- !u!114 &1389296567
 MonoBehaviour:
   m_ObjectHideFlags: 0
